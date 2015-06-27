@@ -7,3 +7,6 @@ Payment Solutions for México
  - [https://clip.mx/](https://clip.mx/)
  - [https://www.izettle.com/mx](https://www.izettle.com/mx)
  - [https://www.compropago.com](https://www.compropago.com)
+ - [https://www.prestashop.com/es/](https://www.prestashop.com/es/)
+ - [http://es.shopify.com](http://es.shopify.com)
+
