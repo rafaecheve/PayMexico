@@ -9,4 +9,5 @@ Payment Solutions for México
  - [https://www.compropago.com](https://www.compropago.com)
  - [https://www.prestashop.com/es/](https://www.prestashop.com/es/)
  - [http://es.shopify.com](http://es.shopify.com)
+ - [https://www.kichink.com](https://www.kichink.com)
 
